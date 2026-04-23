@@ -323,43 +323,6 @@ flowchart LR
 ![3D profile](https://github.com/code-repositories/code-repositories/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                         TROPHY CABINET                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-```
-> ./trophies --display-all
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-repositories&theme=matrix&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      METRICS · FULL DASHBOARD                  -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-```
-> ./metrics --full-dashboard
-```
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/code-repositories?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&habits=1&isocalendar=1&languages.ignored=html%2C+css&languages.skipped=&languages.limit=8&languages.threshold=0%25&languages.sections=most-used&languages.details=&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C+programming&languages.colors=github&languages.aliases=&languages.recent.categories=markup%2C+programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&isocalendar.duration=half-year&config.timezone=Asia%2FSeoul" />
-
-<br>
-
-<sub><code>requires self-hosted github action — see lowlighter/metrics</code></sub>
-
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
