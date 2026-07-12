@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: write
@@ -39,9 +39,9 @@ jobs:
           # 최대 5번 재시도: fetch → rebase → push
           for i in 1 2 3 4 5; do
             echo "=== push attempt $i ==="
-            git fetch origin main || true
-            git rebase origin/main || git rebase --abort || true
-            if git push origin HEAD:main; then
+            git fetch origin master || true
+            git rebase origin/master || git rebase --abort || true
+            if git push origin HEAD:master; then
               echo "push succeeded"
               exit 0
             fi

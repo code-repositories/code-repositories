@@ -268,17 +268,14 @@ flowchart LR
 <br>
 
 <!-- WAKATIME -->
-<details>
+<details open>
 <summary><b><code>&gt; ./wakatime --coding-activity</code></b></summary>
 <br>
 
-<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=code-repositories&layout=compact&hide_border=true&title_color=64C8FF&text_color=C8D2E1&bg_color=03060C&custom_title=%E2%97%89%20WAKATIME%20%C2%B7%20LAST%207%20DAYS" />
-
-<sub><code>requires wakatime.com account + github action</code></sub>
-
-</div>
+<div align="right"><sub><code>LAST 7 DAYS · AUTO-UPDATED DAILY</code></sub></div>
 
 </details>
 
@@ -307,7 +304,7 @@ flowchart LR
 
 <br><br>
 
-![snake gif](https://github.com/code-repositories/code-repositories/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/code-repositories/code-repositories/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -320,9 +317,10 @@ flowchart LR
 
 <br><br>
 
-![3D profile](https://github.com/code-repositories/code-repositories/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D profile](https://raw.githubusercontent.com/code-repositories/code-repositories/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
+
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
