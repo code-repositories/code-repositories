@@ -275,12 +275,16 @@ flowchart LR
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 29 mins
+Total Time: 1 hr 32 mins
 
-YAML       25 mins               ██████████████████████░░░   87.06 %
-Markdown   3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Java              34 mins               █████████░░░░░░░░░░░░░░░░   36.63 %
+YAML              25 mins               ███████░░░░░░░░░░░░░░░░░░   27.86 %
+XML               16 mins               ████░░░░░░░░░░░░░░░░░░░░░   17.79 %
+Markdown          8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Git Config        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JavaScript        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
