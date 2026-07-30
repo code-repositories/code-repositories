@@ -275,16 +275,16 @@ flowchart LR
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2026 - To: 29 July 2026
+From: 23 July 2026 - To: 30 July 2026
 
-Total Time: 23 hrs 28 mins
+Total Time: 20 hrs 30 mins
 
-Python       6 hrs 2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Markdown     5 hrs 50 mins         ██████░░░░░░░░░░░░░░░░░░░   23.02 %
-Java         4 hrs 42 mins         █████░░░░░░░░░░░░░░░░░░░░   18.56 %
-Bash         3 hrs 18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Other        1 hr 56 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-PowerShell   48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Markdown     4 hrs 44 mins         █████░░░░░░░░░░░░░░░░░░░░   21.13 %
+Java         4 hrs 42 mins         █████░░░░░░░░░░░░░░░░░░░░   21.05 %
+Python       4 hrs 30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+Bash         3 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Other        1 hr 53 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+PowerShell   48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
